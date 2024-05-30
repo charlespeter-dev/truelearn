@@ -1,0 +1,115 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-wrapper background-color="#f9f9f9" />
+      <mj-section background-color="#ffffff" />
+      <mj-text font-family="Arial, Helvetica, san-serif" font-size="16px" line-height="22px" color="#333333" />
+      <mj-table font-family="Arial, Helvetica, san-serif" font-size="16px" line-height="22px" color="#333333" />
+      <mj-button font-family="Arial, Helvetica, san-serif" font-size="18px" line-height="21px" font-weight="700" background-color="#2BBBAD" color="#ffffff" border="1px solid #2BBBAD" border-radius="0" width="50%" />
+      <mj-class name="h1" font-size="20px" line-height="30px" color="#14426B" font-weight="700" />
+      <mj-class name="resource-type" font-size="16px" line-height="18px" color="#009EE2" font-weight="700" />
+      <mj-class name="small" font-size="12px" line-height="15px" color="#e9e9e9" align="center" />
+      <mj-class name="super-small" font-size="9px" line-height="14px" color="#ffffff" align="center" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-wrapper full-width="full-width" padding="0">
+
+      <!-- view in browser begin -->
+      <mj-section padding="0" background-color="#f9f9f9">
+        <mj-column>
+          <mj-text mj-class="small">
+            <a href="{{View_Online}}" style="color: #1E78D7; text-decoration: none;" target="_blank"><strong style="color: #1E78D7; font-weight: normal;">View this email in your browser</strong></a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- view in browser end -->
+
+      <!-- header logo begin -->
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image padding="0" href="https://truelearn.com/truelearn-pharmacy-whitepaper/?utm_content=cta_banner01&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Asset&amp;utm_campaign=B2B_2X_DG-PH_ES-WP-01-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c" src="https://content.truelearn.com/l/141801/2022-11-11/bszzx1/141801/1668156509yqzJZ3Rg/Email_Banner.png" alt="Logo" />
+        </mj-column>
+      </mj-section>
+      <!-- header logo end -->
+
+      <!-- begin header text -->
+      <mj-section background-color="#EFEFEF">
+        <mj-column>
+          <mj-text mj-class="resource-type">
+            WHITEPAPER
+          </mj-text>
+          <mj-text mj-class="h1">
+            Build Board Prep into PharmD Curriculum,<br>Steer Cohort Performance toward Optimal Outcomes
+          </mj-text>
+          <mj-text>
+            Integration ensures alignment between curriculum and program objectives, leading to NAPLEX<sup>®</sup> excellence
+          </mj-text>
+          <mj-button width="100%" href="https://truelearn.com/truelearn-pharmacy-whitepaper/?utm_content=cta_button02&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Asset&amp;utm_campaign=B2B_2X_DG-PH_ES-WP-01-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c">
+            Download Whitepaper
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://truelearn.com/truelearn-pharmacy-whitepaper/?utm_content=cta_img01&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Asset&amp;utm_campaign=B2B_2X_DG-PH_ES-WP-01-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c" src="https://content.truelearn.com/l/141801/2022-11-14/bt1t7x/141801/1668411602kdYtcFWw/WP_Thumbnail.png" alt="Build Board Prep into PharmD Curriculum, Steer Cohort Performance toward Optimal Outcomes Thumbnail" />
+        </mj-column>
+      </mj-section>
+      <!-- end header text -->
+
+      <!-- middle text begin -->
+      <mj-section mj-class="padding-inline">
+        <mj-column>
+          <mj-text>
+            How can pharmacy program leaders and faculty members determine if students are adequately prepared for the North American Pharmacist Licensure Examination<sup>®</sup> (NAPLEX<sup>®</sup>) and will deliver the desired exam performance and outcomes?
+          </mj-text>
+          <mj-text>
+            Integrating board prep into the curriculum from the start of the pharmacy student’s journey is key. This lets institutions ensure alignment between curricular activities and program goals and allows faculty to track longitudinal performance and surface curricular trends, learning gaps, and remediation needs by cohort and individual students.
+          </mj-text>
+          <mj-text>
+            In our new whitepaper, we explore this and other solutions that can help schools and faculty overcome challenges in pharmacy education and elevate first-time NAPLEX<sup>®</sup> pass rates.
+          </mj-text>
+          <mj-text>
+            Download and learn:
+          </mj-text>
+          <mj-text>
+            <ul>
+              <li><strong><a href="https://truelearn.com/truelearn-pharmacy-whitepaper/?utm_content=cta_text01&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Asset&amp;utm_campaign=B2B_2X_DG-PH_ES-WP-01-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c" style="color:#2abbad;">How learning approaches built on cognitive science and data tracking help break down barriers in pharmacy education</a></strong><br>&nbsp;</li>
+              <li>The powerful effects and benefits of audio-visual mnemonics to accelerate pharmacy students’ learning and boost memory formation and recall<br>&nbsp;</li>
+              <li>Why data-powered learning software is key to driving optimal academic performance, test-taking capabilities, and NAPLEX® performance</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- middle text end -->
+
+      <!-- bottom cta begin -->
+      <mj-section padding-top="0">
+        <mj-column>
+          <mj-button href="https://truelearn.com/truelearn-pharmacy-whitepaper/?utm_content=cta_button02&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Asset&amp;utm_campaign=B2B_2X_DG-PH_ES-WP-01-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c">
+            Download Whitepaper
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- bottom cta end -->
+
+      <!-- footer begin -->
+      <mj-section background-color="#14426B">
+        <mj-column>
+          <mj-image src="https://content.truelearn.com/l/141801/2022-11-13/bt1s8f/141801/1668400759JWNuDPVJ/TrueLearn_Picmonic_Footer.png" width="300px" alt="Logo" />
+          <mj-text mj-class="small">
+            Copyright © 2022 TrueLearn, Inc. All rights reserved
+          </mj-text>
+          <mj-text mj-class="small" padding-top="0">
+            <a href="{{{Unsubscribe}}}" style="color:#2BBBAD;font-weight:bold;text-decoration:underline;">Unsubscribe</a> | <a href="{{{EmailPreferenceCenter}}}" style="color:#2BBBAD;font-weight:bold;text-decoration:underline;">Manage preferences</a>
+          </mj-text>
+          <mj-text mj-class="super-small">
+            NAPLEX® is a trademark of the National Association of Boards of Pharmacy (NABP).<br>This content is not endorsed or approved by National Association of Boards of Pharmacy (NABP).
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- footer end -->
+
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>

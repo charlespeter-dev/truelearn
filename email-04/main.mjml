@@ -1,0 +1,152 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, san-serif" font-size="16px" line-height="24px" color="#F3F4F6" />
+      <mj-wrapper background-color="#e1e1e1" />
+      <mj-section background-color="#ffffff" />
+      <mj-button font-weight="700" background-color="#2BBBAD" color="#ffffff" />
+      <mj-divider border-width="1px" border-color="#285B89" />
+      <mj-class name="h1" font-size="28px" line-height="32px" font-weight="700" />
+      <mj-class name="h2" font-size="24px" line-height="30px" font-weight="700" />
+      <mj-class name="h3" font-size="20px" line-height="30px" font-weight="700" />
+      <mj-class name="h4" font-size="18px" line-height="30px" />
+      <mj-class name="resource-type" font-size="16px" line-height="18px" color="#009EE2" font-weight="700" />
+      <mj-class name="small" font-size="12px" line-height="15px" color="#e9e9e9" align="center" />
+      <mj-class name="super-small" font-size="9px" line-height="14px" color="#ffffff" align="center" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-wrapper full-width="full-width" padding="0">
+
+      <mj-section padding="0" background-color="#ffffff">
+        <mj-column>
+          <mj-text mj-class="small">
+            <a href="{{View_Online}}" style="color: #1E78D7; text-decoration: none;" target="_blank"><strong style="color: #1E78D7; font-weight: normal;">View this email in your browser</strong></a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-bottom="0">
+        <mj-column width="52%" vertical-align="middle">
+          <mj-image src="https://content.truelearn.com/l/141801/2022-06-10/bdp3yz/141801/1654851955pnUDDSqV/TL_logo.png" align="left" alt="" />
+          <mj-text mj-class="h3" color="#14426B">
+            The Most Powerful Tool to Accelerate Medical School Learning and Outcomes
+          </mj-text>
+          <mj-text color="#14426B">
+            Why and how educators can effectively utilize quizzing in didactics and more
+          </mj-text>
+          <mj-button href="https://truelearn.com/" width="100%">
+            Learn More
+          </mj-button>
+        </mj-column>
+        <mj-column width="48%" vertical-align="middle">
+          <mj-image padding="0" src="https://content.truelearn.com/l/141801/2024-05-19/c2bl5y/141801/1716173814DCrafz08/2024_Allopathic_LS_Email_1_Image.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-divider border-color="#E0E0E0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0">
+        <mj-column>
+          <mj-text color="#000000">
+            A TrueLearn <a href="https://truelearn.com/" style="color:#2bbbad; font-weight:700; text-decoration: underline;" target="_blank">survey</a> among medical educators showed that 58% believed students are less prepared for the USMLE® Step 1 following its transition to a pass/fail format. How will this impact exam pass rates and more importantly, what can educators do to help students?
+          </mj-text>
+          <mj-text color="#000000">
+            Quizzing is the answer. Educators can leverage it to augment didactics, support students’ independent learning, improve long-term knowledge retention and retrieval, and maximize exam prep and outcomes.
+          </mj-text>
+          <mj-text color="#000000" padding-bottom="0">
+            <a href="https://truelearn.com/" style="color:#2bbbad; font-weight:700; text-decoration: underline;" target="_blank">Read our blog</a> and discover:
+          </mj-text>
+          <mj-text color="#000000" padding-right="40px">
+            <ul>
+              <li style="margin-bottom: 10px;">Five reasons educators should leverage quizzing as a teaching-learning tool</li>
+              <li style="margin-bottom: 10px;"><a href="https://truelearn.com/" style="color:#2bbbad; font-weight:700; text-decoration: underline;" target="_blank">How quizzing strengthens memory encoding, retention, and recall to drive improved learning and USMLE® outcomes</a></li>
+              <li style="margin-bottom: 10px;">An integrated solution with quizzing features that enhances learning and exam readiness</li>
+              <li>Five reasons educators should leverage quizzing as a teaching-learning tool</li>
+            </ul>
+          </mj-text>
+          <mj-text color="#000000">
+            Plus, get your <a href="https://truelearn.com/" style="color:#2bbbad; font-weight:700; text-decoration: underline;" target="_blank">free guide on how to implement quizzing throughout the medical school curriculum here</a>.
+          </mj-text>
+          <mj-text color="#000000">
+            Want to know more about how this solution has helped medical schools and programs achieve optimal first-time pass rates on USMLE® Step 1 and Step 2 CK?
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" background-color="#F3F4F6">
+        <mj-column width="60%" vertical-align="middle">
+          <mj-text color="#6C6C6C" font-weight="400">
+            Have a question? Want to manage your institution in the TrueLearn platform better?
+          </mj-text>
+          <mj-text color="#6C6C6C">
+            Check out the <a href="https://truelearn.com/" style="color:#009EE2; font-weight:700; text-decoration: underline;">Faculty Knowledge Base</a> (login required)
+          </mj-text>
+        </mj-column>
+        <mj-column width="40%" vertical-align="middle">
+          <mj-image padding="0" src="https://storage.pardot.com/141801/1703065931Rz7GbYNM/Banner.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0" background-color="#14426B">
+        <mj-column>
+          <mj-image src="https://storage.pardot.com/141801/17089342407F7o7D8e/UpdatedTrueLearn_Family_White.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0" background-color="#14426B">
+        <mj-column>
+          <mj-divider />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0" background-color="#14426B">
+        <mj-column width="55%">
+          <mj-text mj-class="h3">
+            Share your experience, utilization, and successes!
+          </mj-text>
+          <mj-text>
+            Enter to win a <span style="color:#009EE2;">$100 gift card</span>.<br>Prizes are drawn monthly.
+          </mj-text>
+          <mj-button href="https://truelearn.com/" width="100%">
+            Book A Slot
+          </mj-button>
+        </mj-column>
+        <mj-column width="45%">
+          <mj-image src="https://storage.pardot.com/141801/1712546553TA69LLbZ/1X_ALLO_2024_Campaign_____Email_4__Email_Top_Banner_Character.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0" background-color="#14426B">
+        <mj-column>
+          <mj-divider />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#14426B">
+        <mj-column>
+
+          <mj-text mj-class="small">
+            Copyright © 2022 TrueLearn, Inc. All rights reserved
+          </mj-text>
+
+          <mj-text mj-class="small" padding-top="0">
+            <a href="{{{Unsubscribe}}}" style="color:#2BBBAD;font-weight:bold;text-decoration:underline;">Unsubscribe</a> | <a href="{{{EmailPreferenceCenter}}}" style="color:#2BBBAD;font-weight:bold;text-decoration:underline;">Manage preferences</a>
+          </mj-text>
+
+          <mj-text mj-class="super-small">
+            *NCLEX<sup>&reg;</sup> is a registered trademark of the National Council of State Boards of Nursing (NCSBN). This content is not endorsed or approved by the NCSBN.
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>

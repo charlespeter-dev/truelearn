@@ -1,0 +1,126 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-wrapper background-color="#f9f9f9" />
+      <mj-section background-color="#ffffff" />
+      <mj-text font-family="Arial, Helvetica, san-serif" font-size="16px" line-height="22px" color="#333333" />
+      <mj-table font-family="Arial, Helvetica, san-serif" font-size="16px" line-height="22px" color="#333333" />
+      <mj-button font-family="Arial, Helvetica, san-serif" font-size="18px" line-height="21px" font-weight="700" background-color="#2BBBAD" color="#ffffff" border="1px solid #2BBBAD" border-radius="0" width="50%" />
+      <mj-class name="h1" font-size="20px" line-height="30px" color="#14426B" align="center" />
+      <mj-class name="small" font-size="12px" line-height="15px" color="#e9e9e9" align="center" />
+      <mj-class name="padding-inline" padding-left="30px" padding-right="30px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-wrapper full-width="full-width" padding="0">
+
+      <!-- view in browser begin -->
+      <mj-section padding="0" background-color="#f9f9f9">
+        <mj-column>
+          <mj-text mj-class="small">
+            <a href="{{View_Online}}" style="color: #1E78D7; text-decoration: none;" target="_blank"><strong style="color: #1E78D7; font-weight: normal;">View this email in your browser</strong></a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- view in browser end -->
+
+      <!-- header logo begin -->
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image padding="0" href="https://truelearn.com/improving-classroom-preparedness-and-engagement-for-gen-z-and-millennial-students?utm_content=cta_banner01&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Asset&amp;utm_campaign=B2B_2X_DG-NS2_ES2-VID-02-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c" src="https://content.truelearn.com/l/141801/2022-07-20/bh2qz5/141801/1658300937J66DtTup/email_banner.png" alt="" />
+        </mj-column>
+      </mj-section>
+      <!-- header logo end -->
+
+      <!-- top text begin -->
+      <mj-section mj-class="padding-inline">
+        <mj-column>
+          <mj-text>
+            How can educators better engage Generation Z and Millennial nursing students in the classroom to improve course, program, and NCLEX outcomes?
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- top text end -->
+
+
+      <!-- top image begin -->
+      <mj-section mj-class="padding-inline">
+        <mj-column>
+          <mj-image href="https://truelearn.com/improving-classroom-preparedness-and-engagement-for-gen-z-and-millennial-students?utm_content=cta_img01&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Asset&amp;utm_campaign=B2B_2X_DG-NS2_ES2-VID-02-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c" src="https://content.truelearn.com/l/141801/2022-10-22/bqnnwv/141801/1666427014Gfmy7deZ/Nursing_Phase_2_BOFU_Email_Vid2_Thumbnail___Desktop.png" alt="The Nursing Processor and Her Add-Pie Diner Thumbnail" />
+        </mj-column>
+      </mj-section>
+      <!-- top image end -->
+
+      <!-- middle text begin -->
+      <mj-section mj-class="padding-inline">
+        <mj-column>
+          <mj-text>
+            Picmonic is the answer. The leading audio-visual mnemonics platform offers animated lessons, virtual classrooms, and low-stakes quizzes that integrate flawlessly into the nursing curriculum – LMS integration is available too. Educators can assign Picmonics ahead of class to help students come prepared and surface insights into where knowledge gaps exist or utilize Picmonics to create active learning experiences in lectures keeping students engaged with an effective learning tool.
+          </mj-text>
+          <mj-text>
+            Find out how to cultivate successful learning environments in multi-generation classrooms and what educators can do to improve engagement and enhance teaching for effective learning.
+          </mj-text>
+          <mj-text>
+            Watch this short clip from our educator webinar “Multigenerational Learning Strategies” by Vickie Cook, Ph.D., Executive Director of Online Professional & Engaged Learning, and Research Professor in the College of Education at the University of Illinois Springfield.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- middle text end -->
+
+      <!-- video image begin -->
+      <mj-section mj-class="padding-inline">
+        <mj-column>
+          <mj-image href="https://truelearn.com/improving-classroom-preparedness-and-engagement-for-gen-z-and-millennial-students?utm_content=cta_vid01&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Video&amp;utm_campaign=B2B_2X_DG-NS2_ES2-VID-02-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c" src="https://content.truelearn.com/l/141801/2022-10-22/bqnnx2/141801/166658791141kUOlGn/Nursing_Phase_2_BOFU_Email_Vid2_Thumbnail_2___Desktop2.png" alt="The Nursing Processor and Her Add-Pie Diner Thumbnail" />
+        </mj-column>
+      </mj-section>
+      <!-- video image end -->
+
+      <!-- bottom cta begin -->
+      <mj-section padding-top="0">
+        <mj-column>
+          <mj-button href="https://truelearn.com/improving-classroom-preparedness-and-engagement-for-gen-z-and-millennial-students?utm_content=cta_button02&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Asset&amp;utm_campaign=B2B_2X_DG-NS2_ES2-VID-02-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c">
+            WATCH NOW
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!-- bottom cta end -->
+
+      <!-- bottom callout begin -->
+      <mj-section background-color="#EFEFEF">
+        <mj-column>
+          <mj-text mj-class="h1">
+            Need help improving classroom preparedness and engagement to drive optimal course or program outcomes?
+          </mj-text>
+          <mj-text mj-class="h1">
+            <strong><a href="https://truelearn.com/improving-classroom-preparedness-and-engagement-for-gen-z-and-millennial-students?utm_content=cta_text01&amp;utm_source=email&amp;utm_medium=2X&amp;lead_source=Email%20Marketing&amp;lead_source_detail=Video&amp;utm_campaign=B2B_2X_DG-NS2_ES2-VID-02-W1&amp;pid=Recipient.Account.Custom_2X_Prospect_ID__c" style="color:#2BBBAD;text-decoration:underline;">Learn More</a></strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- bottom callout end -->
+
+      <!-- footer image begin -->
+      <mj-section padding="0" background-color="#EFEFEF">
+        <mj-column>
+          <mj-image padding="0" src="https://storage.pardot.com/141801/1665134437MmOjOiKe/Asset_3_3x__1_.png" alt="" />
+        </mj-column>
+      </mj-section>
+      <!-- footer image end -->
+
+      <!-- footer begin -->
+      <mj-section background-color="#14426B">
+        <mj-column>
+          <mj-text mj-class="small">
+            Copyright © 2022 TrueLearn, Inc. All rights reserved
+          </mj-text>
+          <mj-text mj-class="small" padding-top="0">
+            <a href="{{{Unsubscribe}}}" style="color:#2BBBAD;font-weight:bold;text-decoration:underline;">Unsubscribe</a> | <a href="{{{EmailPreferenceCenter}}}" style="color:#2BBBAD;font-weight:bold;text-decoration:underline;">Manage preferences</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- footer end -->
+
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>

@@ -1,0 +1,146 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, san-serif" font-size="16px" line-height="24px" color="#F3F4F6" />
+      <mj-wrapper background-color="#e1e1e1" />
+      <mj-section background-color="#14426B" />
+      <mj-button font-weight="700" background-color="#2BBBAD" color="#ffffff" />
+      <mj-divider border-width="1px" border-color="#285B89" />
+      <mj-class name="h1" font-size="28px" line-height="32px" font-weight="700" />
+      <mj-class name="h2" font-size="24px" line-height="30px" font-weight="700" />
+      <mj-class name="h3" font-size="20px" line-height="30px" font-weight="700" />
+      <mj-class name="h4" font-size="18px" line-height="30px" />
+      <mj-class name="resource-type" font-size="16px" line-height="18px" color="#009EE2" font-weight="700" />
+      <mj-class name="small" font-size="12px" line-height="15px" color="#e9e9e9" align="center" />
+      <mj-class name="super-small" font-size="9px" line-height="14px" color="#ffffff" align="center" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-wrapper full-width="full-width" padding="0">
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image src="https://content.truelearn.com/l/141801/2024-01-22/c1zqzm/141801/1705909525mtZaYhZo/Top_Header_Newsletter_TL___2x_2.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-divider border-color="#ffffff" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text mj-class="h1" align="center">
+            Option 1 B2B Customer Pardot Email
+          </mj-text>
+          <mj-text mj-class="h3" align="center" padding-top="0" color="#2BBBAD">
+            Description for title
+          </mj-text>
+          <mj-button href="https://truelearn.com/" width="300px">
+            Learn More
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-bottom="0" background-color="#ffffff">
+        <mj-column>
+          <mj-text mj-class="h2" align="center" color="#14426B">
+            What Medical Educators Want When it Comes to the USMLE<sup>®</sup>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0" background-color="#ffffff">
+        <mj-column>
+          <mj-image src="https://content.truelearn.com/l/141801/2024-02-09/c229ks/141801/1707459419cAvF2v4S/USMLE_NL_Q1_Image_1.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" background-color="#ffffff">
+        <mj-column>
+          <mj-text mj-class="h4" color="#000000">
+            How is the USMLE<sup>®</sup> Step 1123&nbsp;transition from a three-digit score to a pass/fail model impacting educators and the students they teach? We surveyed more than 250 medical school faculty members and here are the results!
+          </mj-text>
+          <mj-text mj-class="h4" color="#000000" font-weight="700">
+            Read the full report in our whitepaper
+          </mj-text>
+          <mj-text mj-class="h4">
+            <a href="https://truelearn.com/" style="color:#2bbbad; font-weight: 700;">USMLE<sup>®</sup> Step 1 Challenges, Trends, and Insights: The U.S. Educators’ Perspective</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" background-color="#F3F4F6">
+        <mj-column width="60%" vertical-align="middle">
+          <mj-text color="#6C6C6C" font-weight="400">
+            Have a question? Want to manage your institution in the TrueLearn platform better?
+          </mj-text>
+          <mj-text color="#6C6C6C">
+            Check out the <a href="https://truelearn.com/" style="color:#009EE2; font-weight:700;">Faculty Knowledge Base</a> (login required)
+          </mj-text>
+        </mj-column>
+        <mj-column width="40%" vertical-align="middle">
+          <mj-image padding="0" src="https://storage.pardot.com/141801/1703065931Rz7GbYNM/Banner.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-image src="https://storage.pardot.com/141801/17089342407F7o7D8e/UpdatedTrueLearn_Family_White.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-divider />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column width="55%">
+          <mj-text mj-class="h3">
+            Share your experience, utilization, and successes!
+          </mj-text>
+          <mj-text>
+            Enter to win a <span style="color:#009EE2;">$100 gift card</span>.<br>Prizes are drawn monthly.
+          </mj-text>
+          <mj-button href="https://truelearn.com/" width="100%">
+            Book A Slot
+          </mj-button>
+        </mj-column>
+        <mj-column width="45%">
+          <mj-image src="https://storage.pardot.com/141801/1712546553TA69LLbZ/1X_ALLO_2024_Campaign_____Email_4__Email_Top_Banner_Character.png" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+          <mj-divider />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+
+          <mj-text mj-class="small">
+            Copyright © 2022 TrueLearn, Inc. All rights reserved
+          </mj-text>
+
+          <mj-text mj-class="small" padding-top="0">
+            <a href="{{{Unsubscribe}}}" style="color:#2BBBAD;font-weight:bold;text-decoration:underline;">Unsubscribe</a> | <a href="{{{EmailPreferenceCenter}}}" style="color:#2BBBAD;font-weight:bold;text-decoration:underline;">Manage preferences</a>
+          </mj-text>
+
+          <mj-text mj-class="super-small">
+            *NCLEX<sup>&reg;</sup> is a registered trademark of the National Council of State Boards of Nursing (NCSBN). This content is not endorsed or approved by the NCSBN.
+          </mj-text>
+
+        </mj-column>
+      </mj-section>
+
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
