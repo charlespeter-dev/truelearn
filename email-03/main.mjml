@@ -68,7 +68,7 @@
             Read the full report in our whitepaper
           </mj-text>
           <mj-text mj-class="h4">
-            <a href="https://truelearn.com/" style="color:#2bbbad; font-weight: 700;">USMLE<sup>®</sup> Step 1 Challenges, Trends, and Insights: The U.S. Educators’ Perspective</a>
+            <a href="https://truelearn.com/" style="color:#2bbbad; font-weight: 700; text-decoration: underline;" target="_blank">USMLE<sup>®</sup> Step 1 Challenges, Trends, and Insights: The U.S. Educators’ Perspective</a>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -79,7 +79,7 @@
             Have a question? Want to manage your institution in the TrueLearn platform better?
           </mj-text>
           <mj-text color="#6C6C6C">
-            Check out the <a href="https://truelearn.com/" style="color:#009EE2; font-weight:700;">Faculty Knowledge Base</a> (login required)
+            Check out the <a href="https://truelearn.com/" style="color:#009EE2; font-weight:700; text-decoration: underline;" target="_blank">Faculty Knowledge Base</a> (login required)
           </mj-text>
         </mj-column>
         <mj-column width="40%" vertical-align="middle">
