@@ -21,7 +21,7 @@
 
       <mj-section padding-top="0" padding-bottom="0">
         <mj-column>
-          <mj-image src="https://content.truelearn.com/l/141801/2024-01-22/c1zqzm/141801/1705909525mtZaYhZo/Top_Header_Newsletter_TL___2x_2.png" alt="" />
+          <mj-image href="https://truelearn.com/" src="https://content.truelearn.com/l/141801/2024-01-22/c1zqzm/141801/1705909525mtZaYhZo/Top_Header_Newsletter_TL___2x_2.png" alt="" />
         </mj-column>
       </mj-section>
 
@@ -34,7 +34,7 @@
       <mj-section>
         <mj-column>
           <mj-text mj-class="h1" align="center">
-            Option 1 B2B Customer Pardot Email
+            Enter Title Here
           </mj-text>
           <mj-text mj-class="h3" align="center" padding-top="0" color="#2BBBAD">
             Description for title
@@ -48,14 +48,14 @@
       <mj-section padding-bottom="0" background-color="#ffffff">
         <mj-column>
           <mj-text mj-class="h2" align="center" color="#14426B">
-            What Medical Educators Want When it Comes to the USMLE<sup>®</sup>
+            Enter Headline Here
           </mj-text>
         </mj-column>
       </mj-section>
 
       <mj-section padding-top="0" padding-bottom="0" background-color="#ffffff">
         <mj-column>
-          <mj-image src="https://content.truelearn.com/l/141801/2024-02-09/c229ks/141801/1707459419cAvF2v4S/USMLE_NL_Q1_Image_1.png" alt="" />
+          <mj-image href="https://truelearn.com/" src="https://content.truelearn.com/l/141801/2024-02-09/c229ks/141801/1707459419cAvF2v4S/USMLE_NL_Q1_Image_1.png" alt="" />
         </mj-column>
       </mj-section>
 
@@ -89,7 +89,7 @@
 
       <mj-section padding-top="0" padding-bottom="0">
         <mj-column>
-          <mj-image src="https://storage.pardot.com/141801/17089342407F7o7D8e/UpdatedTrueLearn_Family_White.png" alt="" />
+          <mj-image fluid-on-mobile="true" href="https://truelearn.com/" src="https://storage.pardot.com/141801/17089342407F7o7D8e/UpdatedTrueLearn_Family_White.png" alt="" />
         </mj-column>
       </mj-section>
 
@@ -107,12 +107,12 @@
           <mj-text>
             Enter to win a <span style="color:#009EE2;">$100 gift card</span>.<br>Prizes are drawn monthly.
           </mj-text>
-          <mj-button href="https://truelearn.com/" width="100%">
+          <mj-button href="https://truelearn.com/" width="250px" align="left">
             Book A Slot
           </mj-button>
         </mj-column>
         <mj-column width="45%">
-          <mj-image src="https://storage.pardot.com/141801/1712546553TA69LLbZ/1X_ALLO_2024_Campaign_____Email_4__Email_Top_Banner_Character.png" alt="" />
+          <mj-image href="https://truelearn.com/" src="https://storage.pardot.com/141801/1712546553TA69LLbZ/1X_ALLO_2024_Campaign_____Email_4__Email_Top_Banner_Character.png" alt="" />
         </mj-column>
       </mj-section>
 
@@ -134,7 +134,7 @@
           </mj-text>
 
           <mj-text mj-class="super-small">
-            *NCLEX<sup>&reg;</sup> is a registered trademark of the National Council of State Boards of Nursing (NCSBN). This content is not endorsed or approved by the NCSBN.
+            *Enter the registered trademark statement, citations, or disclaimers here
           </mj-text>
 
         </mj-column>
